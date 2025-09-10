@@ -18,3 +18,8 @@
 
 added header
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
